@@ -1,2 +1,3 @@
 /config/data.yaml.d/*.yaml
 /vendor/
+/build/
